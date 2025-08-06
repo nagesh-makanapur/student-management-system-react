@@ -1,1 +1,1 @@
-# student-management-system-react
+ Student Management System (React + Vite)
