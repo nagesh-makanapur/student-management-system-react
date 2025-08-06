@@ -6,9 +6,11 @@ A simple React-based Student Management System that allows you to add and displa
 
 ## 🚀 Features
 
-- Add new students with name and age
+- Add new students with name, age, and marks
 - Display student list dynamically
-- Clean component-based architecture
+- Show pass/fail status based on marks (≥ 50 = Passed)
+- Styled components with hover effects
+
 
 ---
 
@@ -53,7 +55,14 @@ clone the repository to your local machine:
 git clone https://github.com/nagesh-makanapur /student-management-system-react.git
 cd student-management-system-react
 
+---
+🙋 Author
+👨‍💻 Nagesh Makanapur
 
+🔗 GitHub: @nageshmakanapur
+
+📝 License
+This project is licensed under the MIT License — free to use and modify.
 
 
 
