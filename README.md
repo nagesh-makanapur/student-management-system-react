@@ -21,6 +21,39 @@ A simple React-based Student Management System that allows you to add and displa
 
 ---
 
-## 📁 Project Structure
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Step 1: Create Vite React App (if not already created)
+npm create vite@latest my-app -- --template react
+cd my-app
+
+# Step 2: Replace the code inside src/ with the components provided
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Run the app
+npm run dev
+🔧 Dependencies
+These dependencies will be installed via npm install:
+{
+  "react": "^18.x.x",
+  "react-dom": "^18.x.x"
+}
+
+---
+
+## 🔁 Clone the Repository
+clone the repository to your local machine:
+
+```bash
+git clone https://github.com/nagesh-makanapur /student-management-system-react.git
+cd student-management-system-react
+
+
+
 
 
