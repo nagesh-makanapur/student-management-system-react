@@ -59,7 +59,7 @@ cd student-management-system-react
 🙋 Author
 👨‍💻 Nagesh Makanapur
 
-🔗 GitHub: @nageshmakanapur
+🔗 GitHub: @nagesh-makanapur
 
 📝 License
 This project is licensed under the MIT License — free to use and modify.
