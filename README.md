@@ -55,7 +55,7 @@ clone the repository to your local machine:
 git clone https://github.com/nagesh-makanapur /student-management-system-react.git
 cd student-management-system-react
 
----
+```
 🙋 Author
 👨‍💻 Nagesh Makanapur
 
