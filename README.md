@@ -3,7 +3,7 @@
 A simple React-based Student Management System that allows you to add and display student records. Built using **Vite** for faster development and better performance.
 
 **UI Snapshots**
-[image alt](https://github.com/nagesh-makanapur/student-management-system-react/blob/5d9adbefe0f87b05435632e4636f976f6ab470b5/Snapshots/Home%20page.png)
+![image alt](https://github.com/nagesh-makanapur/student-management-system-react/blob/88ed7aa4de63c8eef95fafb94963fed567f95aa5/Snapshots/Home%20page.png)
 
 ---
 
